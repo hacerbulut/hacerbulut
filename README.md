@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 
-## 👷🏻‍♀️👋🏻 Hi there, I'm HACER 👷🏻‍♀️👋
+## 👋🏻 Hi there, I'm HACER👋
 
 <font color="pink"> 🐱‍🏍 I'm Art Historian but I find myself in software. </font>
 </br>
