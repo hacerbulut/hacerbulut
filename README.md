@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 
-## 👋🏻 Hi there, I'm HACER👋
+![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+HACER;Welcome+to+my+Github+profile;I'm+a+Frontend+Developer...;)
 
 <font color="pink"> 🐱‍🏍 I'm Art Historian but I find myself in software. </font>
 </br>
